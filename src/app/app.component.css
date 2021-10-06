@@ -1,0 +1,41 @@
+
+.bts {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    padding-top: 50px;
+  }
+  
+
+  
+  h2 {
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  .result {
+    margin-left: 42%;
+    
+  }
+  
+  input {
+   display: block;
+   text-align: center;
+    height: 100px;
+    width: 200px;
+    font-size: 100px;
+  }
+
+  button {
+    height: 150px;
+    width: 150px;
+    font-size: 50px;
+    border-radius: 60%;
+    margin-left: 29px;
+    background-color: #BFA2DB;
+  }
+  
